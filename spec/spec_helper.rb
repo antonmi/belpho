@@ -1,0 +1,2 @@
+$: << Dir.pwd
+require 'year'

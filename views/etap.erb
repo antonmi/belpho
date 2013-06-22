@@ -1,0 +1,8 @@
+<%= which %>
+<ul class=<%= which %>>
+  <% if etap['problems'] %>
+      <%= erb :short_form, {}, { etap: etap, which: which }  %>
+  <% else %>
+      <%= erb :full_form, {}, { etap: etap, which: which }  %>
+  <% end %>
+</ul>

@@ -1,0 +1,176 @@
+1990:
+  final:
+    problems: 1990problems.pdf
+    solutions: 1990solutions.pdf
+
+1991:
+  final:
+    problems: 1991problems.pdf
+    solutions: 1991solutions.pdf
+
+1992:
+  final:
+    problems: 1992problems.pdf
+    solutions: 1992solutions.pdf
+
+1993:
+  final:
+    problems: 1993problems.pdf
+    solutions: 1993solutions.pdf
+
+1994:
+  final:
+    problems: 1994problems.pdf
+    solutions: 1994solutions.pdf
+
+1995:
+  final:
+    problems: 1995problems.pdf
+    solutions: 1995solutions.pdf
+
+1996:
+  final:
+    problems: 1996problems.pdf
+    solutions: 1996solutions.pdf
+
+1997:
+  final:
+    problems: 1997problems.pdf
+    solutions: 1997solutions.pdf
+
+1998:
+  final:
+    problems: 1998problems.pdf
+    solutions: 1998solutions.pdf
+
+1999:
+  final:
+    problems: 1999problems.pdf
+    solutions: 1999solutions.pdf
+
+2000:
+  final:
+    problems: 2000problems.pdf
+    solutions: 2000solutions.pdf
+  third:
+    problems: 3_etap_2000_problems.pdf
+    solutions: 3_etap_2000_solutions.pdf
+
+2001:
+  final:
+    problems: 2001problems.pdf
+    solutions: 2001solutions.pdf
+  third:
+    problems: 3_etap_2001_problems.pdf
+    solutions: 3_etap_2001_solutions.pdf
+
+2002:
+  final:
+    problems: 2002problems.pdf
+    solutions: 2002solutions.pdf
+  third:
+    problems: 3_etap_2002_problems.pdf
+    solutions: 3_etap_2002_solutions.pdf
+
+2003:
+  final:
+    problems: 2003problems.pdf
+    solutions: 2003solutions.pdf
+  third:
+    problems: 3_etap_2003_problems.pdf
+    solutions: 3_etap_2003_solutions.pdf
+
+2004:
+  final:
+    problems: 2004problems.pdf
+    solutions: 2004solutions.pdf
+  third:
+    problems: 3_etap_2004_problems.pdf
+    solutions: 3_etap_2004_solutions.pdf
+
+2005:
+  final:
+    problems: 2005problems.pdf
+    solutions: 2005solutions.pdf
+  third:
+    problems: 3_etap_2005_problems.pdf
+    solutions: 3_etap_2005_solutions.pdf
+
+2006:
+  final:
+    problems: 2006problems.pdf
+    solutions: 2006solutions.pdf
+  third:
+    problems: 3_etap_2006_problems.pdf
+    solutions: 3_etap_2006_solutions.pdf
+
+2007:
+  final:
+    problems: 2007problems.pdf
+    solutions: 2007solutions.pdf
+  third:
+    th-problems: 3_etap_2007_theoretical_problems.pdf
+    th-solutions: 3_etap_2007_theoretical_solutions.pdf
+    exp-problems: 3_etap_2007_experimental_problems.pdf
+    exp-solutions: 3_etap_2007_experimental_solutions.pdf
+
+2008:
+  final:
+    th-problems: 2008_theoretical_problems.pdf
+    th-solutions: 2008_theoretical_solutions.pdf
+    exp-problems: 2008_experimental_problems.pdf
+    exp-solutions: 2008_experimental_solutions.pdf
+  third:
+    th-problems: 3_etap_2008_theoretical_problems.pdf
+    th-solutions: 3_etap_2008_theoretical_solutions.pdf
+    exp-problems: 3_etap_2008_experimental_problems.pdf
+    exp-solutions: 3_etap_2008_experimental_solutions.pdf
+
+2009:
+  final:
+    th-problems: 2009_theoretical_problems.pdf
+    th-solutions: 2009_theoretical_solutions.pdf
+    exp-problems: 2009_experimental_problems.pdf
+    exp-solutions: 2009_experimental_solutions.pdf
+  third:
+    th-problems: 3_etap_2009_theoretical_problems.pdf
+    th-solutions: 3_etap_2009_theoretical_solutions.pdf
+    exp-problems: 3_etap_2009_experimental_problems.pdf
+    exp-solutions: 3_etap_2009_experimental_solutions.pdf
+
+2010:
+  final:
+    th-problems: 2010_theoretical_problems.pdf
+    th-solutions: 2010_theoretical_solutions.pdf
+    exp-problems: 2010_experimental_problems.pdf
+    exp-solutions: 2010_experimental_solutions.pdf
+  third:
+    th-problems: 3_etap_2010_theoretical_problems.pdf
+    th-solutions: 3_etap_2010_theoretical_solutions.pdf
+    exp-problems: 3_etap_2010_experimental_problems.pdf
+    exp-solutions: 3_etap_2010_experimental_solutions.pdf
+
+2011:
+  final:
+    th-problems: 2011_theoretical_problems.pdf
+    th-solutions: 2011_theoretical_solutions.pdf
+    exp-problems: 2011_experimental_problems.pdf
+    exp-solutions: 2011_experimental_solutions.pdf
+  third:
+    th-problems: 3_etap_2011_theoretical_problems.pdf
+    th-solutions: 3_etap_2011_theoretical_solutions.pdf
+    exp-problems: 3_etap_2011_experimental_problems.pdf
+    exp-solutions: 3_etap_2011_experimental_solutions.pdf
+
+2012:
+  final:
+    th-problems: 2012_theoretical_problems.pdf
+    th-solutions: 2012_theoretical_solutions.pdf
+    exp-problems: 2012_experimental_problems.pdf
+    exp-solutions: 2012_experimental_solutions.pdf
+  third:
+    th-problems: 3_etap_2012_theoretical_problems.pdf
+    th-solutions: 3_etap_2012_theoretical_solutions.pdf
+    exp-problems: 3_etap_2012_experimental_problems.pdf
+    exp-solutions: 3_etap_2012_experimental_solutions.pdf
+
