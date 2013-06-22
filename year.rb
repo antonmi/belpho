@@ -14,6 +14,7 @@ class Year
       @yaml = YAML.load_file("#{Dir.pwd}/#{file}")
       @years = []
       @yaml.each { |key, value| @years << Year.new(key, value) }
+      @years.reverse!
     end
 
     def yaml
