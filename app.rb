@@ -9,7 +9,7 @@ end
 
 helpers do
   def link_to_problems(name, file, which)
-    "<a href=#{request.scheme}://#{request.host}:#{request.port}/problems/#{which}/#{file}>#{name}</a>"
+    "<a href=#{request.scheme}://#{request.host}:#{request.port}/problems/#{which}/#{file} target='_blank'>#{name}</a>"
   end
 end
 
