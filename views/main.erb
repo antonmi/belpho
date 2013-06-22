@@ -1,0 +1,16 @@
+<div id='main' class="col col-lg-9">
+	<div class='row'>
+		<div class='col'>
+			<h2>Задачи и решения</h2>
+			<br>
+		</div>
+	</div>
+
+<% Year.years.each do |year| %>
+<%= erb :year, {}, { year: year } %>
+
+<% end %>
+				<a href="#" class="back-to-top">
+	        		&uarr; наверх
+	      		</a>
+</div>

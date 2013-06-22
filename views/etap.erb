@@ -1,4 +1,8 @@
-<%= which %>
+ <% if which == 'final' %>
+ 	<h4>Заключительный этап</h4>
+<% else %>
+	<h4>III этап</h4>
+<% end %>
 <ul class=<%= which %>>
   <% if etap['problems'] %>
       <%= erb :short_form, {}, { etap: etap, which: which }  %>

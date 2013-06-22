@@ -1,11 +1,17 @@
-<%= year.year %>
-<ul>
-  <li>
-    <%= erb :etap, {}, { etap: year.etaps['final'], which: 'final' } %>
-  </li>
-  <% if year.etaps['third'] %>
-      <li>
-        <%= erb :etap, {}, { etap: year.etaps['third'], which: 'third' } %>
-      </li>
-  <% end %>
-</ul>
+<div id='y<%= year.year %>' class="row">
+	<div class="col col-lg-10">
+		<h3>
+			Республиканская олимпиада <%= year.year %> года
+		</h3>
+			<div class="col col-lg-6">
+    			<%= erb :etap, {}, { etap: year.etaps['final'], which: 'final' } %>
+  			</div>
+  			<% if year.etaps['third'] %>
+      		<div class="col col-lg-6">
+        			<%= erb :etap, {}, { etap: year.etaps['third'], which: 'third' } %>
+        	</div>
+  			<% end %>
+		</ul>
+	</div>
+
+</div>
