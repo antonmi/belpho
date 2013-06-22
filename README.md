@@ -1,4 +1,4 @@
-belpho
+BelPhO
 ======
 
 Problems of Belarus Physics Olympiads
