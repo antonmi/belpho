@@ -31,4 +31,3 @@ class Year
 end
 
 Year.parse('problems.yml')
-p Year.years
