@@ -15,6 +15,7 @@ class Year
       @years = []
       @yaml.each { |key, value| @years << Year.new(key, value) }
       @years.reverse!
+      @yaml
     end
 
     def yaml
