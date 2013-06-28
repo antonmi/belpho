@@ -12,7 +12,7 @@ describe 'Problems files' do
   end
 
   it 'should have all years' do
-    (1990..2012).to_a.each do |year|
+    (1990..2013).to_a.each do |year|
       expect(@yaml[year]).to be_instance_of Hash
     end
   end
@@ -36,7 +36,7 @@ describe 'Problems files' do
     @yaml.each do |year, value|
       %w(final, third).each do |etap|
         if hash = value[etap]
-          %w(problems solutions th-problems th-solutions exp-problems exp-solutions).each do |pr|
+          %w(problems solutions th-problems th-solutions th-schemes exp-problems exp-solutions exp-schemes).each do |pr|
             (hash[pr] =~ Regexp.new(year.to_s)).should_not be_nil if hash[pr]
           end
         end

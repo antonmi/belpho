@@ -174,3 +174,19 @@
     exp-problems: 3_etap_2012_experimental_problems.pdf
     exp-solutions: 3_etap_2012_experimental_solutions.pdf
 
+2013:
+  final:
+    th-problems: 2013_theoretical_problems.pdf
+    th-solutions: 2013_theoretical_solutions.pdf
+    th-schemes: 2013_theoretical_schemes.pdf
+    exp-problems: 2013_experimental_problems.pdf
+    exp-solutions: 2013_experimental_solutions.pdf
+    exp-schemes: 2013_experimental_schemes.pdf
+  third:
+    th-problems: 3_etap_2013_theoretical_problems.pdf
+    th-solutions: 3_etap_2013_theoretical_solutions.pdf
+    th-schemes: 3_etap_2013_theoretical_schemes.pdf
+    exp-problems: 3_etap_2013_experimental_problems.pdf
+    exp-solutions: 3_etap_2013_experimental_solutions.pdf
+    exp-schemes: 3_etap_2013_experimental_schemes.pdf
+

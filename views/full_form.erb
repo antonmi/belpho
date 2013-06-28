@@ -4,8 +4,19 @@
 <li>
   <%= link_to_problems 'Решения Теоретического Тура', etap['th-solutions'], which %>
 </li>
+<% if etap['th-schemes'] %>
+    <li>
+      <%= link_to_problems 'Схемы Оценивания Теоретического Тура', etap['th-schemes'], which %>
+    </li>
+<% end %>
 <li>
   <%= link_to_problems 'Условия Экспериментального Тура', etap['exp-problems'], which %>
-</li><li>
+</li>
+<li>
   <%= link_to_problems 'Решения Экспериментального Тура', etap['exp-solutions'], which %>
 </li>
+<% if etap['exp-schemes'] %>
+    <li>
+      <%= link_to_problems 'Схемы Оценивания Экспериментального Тура', etap['exp-schemes'], which %>
+    </li>
+<% end %>
