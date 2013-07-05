@@ -5,8 +5,8 @@
 		</div>
 	</div>
 
-<% Year.years.each do |year| %>
-<%= erb :year, {}, { year: year } %>
+<% Year.years.each_with_index do |year, index| %>
+<%= erb :year, {}, { year: year, index: index } %>
 
 <% end %>
 				<a href="#" class="back-to-top">
