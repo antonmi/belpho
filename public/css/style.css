@@ -25,15 +25,24 @@ footer {
     margin-top: 5px;
 }	
   header {
-    margin-left: 40px;
-    width: 220px;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    border-radius: 0 0 20px 20px;
-    text-align: center;
-    padding: 20px;
-    background: #fff;
+      padding: 41px 0 40px 0;
+      margin: 40px 0 40px 40px;
+      width: 180px;
+      -webkit-border-radius: 90px;
+      -moz-border-radius: 100px;
+      border-radius: 90px;
+      text-align: center;
+      background: #fff;
   }
+    header h1 {
+      text-align: left;
+      left: 40px;
+      margin: 0;
+      padding: 9px 9px 0 9px;
+      top: 323px;
+      background: #3b59f2;
+      position: absolute;
+    }
   nav {
     margin: 0 auto;
     width: 200px;
@@ -109,8 +118,13 @@ hr {
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
-    background: #555;
     border: none;
     height: 6px;
     margin-left: -30px;
   }
+.even hr {
+  background: #82d120;
+}
+.odd hr {
+  background: #3b59f2;
+}

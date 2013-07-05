@@ -22,9 +22,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header h1 {
-	font-family: 'PT Sans', Helvetica, Arial, sans-serif;
 	letter-spacing: 2px;
-    line-height: 28px;
-    font-weight: normal;
-    font-size: 22px;
+    color: #fff;
+    text-align: left;
+    line-height: 40px;
+    font-size: 30px;
+    font-family: GothamPro;
+    font-weight: bold;
 }
