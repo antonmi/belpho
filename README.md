@@ -1,4 +1,4 @@
 BelPhO
 ======
 
-Problems and solutions of Belarus Physics Olympiads
+Problems and solutions of Belarus Physics Olympiads. [belpho.org](http://www.belpho.org/)
