@@ -192,16 +192,24 @@
 
 2014:
   final:
-    th-problems: 2013_theoretical_problems.pdf
-    th-solutions: 2013_theoretical_solutions.pdf
-    th-schemes: 2013_theoretical_schemes.pdf
-    exp-problems: 2013_experimental_problems.pdf
-    exp-solutions: 2013_experimental_solutions.pdf
-    exp-schemes: 2013_experimental_schemes.pdf
+    th-problems: 2014_theoretical_problems.pdf
+    th-solutions: 2014_theoretical_solutions.pdf
+    exp-problems: 2014_experimental_problems.pdf
+    exp-solutions: 2014_experimental_solutions.pdf
   third:
-    th-problems: 3_etap_2013_theoretical_problems.pdf
-    th-solutions: 3_etap_2013_theoretical_solutions.pdf
-    th-schemes: 3_etap_2013_theoretical_schemes.pdf
-    exp-problems: 3_etap_2013_experimental_problems.pdf
-    exp-solutions: 3_etap_2013_experimental_solutions.pdf
-    exp-schemes: 3_etap_2013_experimental_schemes.pdf
+    th-problems: 3_etap_2014_theoretical_problems.pdf
+    th-solutions: 3_etap_2014_theoretical_solutions.pdf
+    exp-problems: 3_etap_2014_experimental_problems.pdf
+    exp-solutions: 3_etap_2014_experimental_solutions.pdf
+
+2015:
+  final:
+    th-problems: 2015_theoretical_problems.pdf
+    th-solutions: 2015_theoretical_solutions.pdf
+    exp-problems: 2015_experimental_problems.pdf
+    exp-solutions: 2015_experimental_solutions.pdf
+  third:
+    th-problems: 3_etap_2015_theoretical_problems.pdf
+    th-solutions: 3_etap_2015_theoretical_solutions.pdf
+    exp-problems: 3_etap_2015_experimental_problems.pdf
+    exp-solutions: 3_etap_2015_experimental_solutions.pdf
