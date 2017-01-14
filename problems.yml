@@ -213,3 +213,15 @@
     th-solutions: 3_etap_2015_theoretical_solutions.pdf
     exp-problems: 3_etap_2015_experimental_problems.pdf
     exp-solutions: 3_etap_2015_experimental_solutions.pdf
+
+2016:
+  final:
+    th-problems: 2016_theoretical_problems.pdf
+    th-solutions: 2016_theoretical_solutions.pdf
+    exp-problems: 2016_experimental_problems.pdf
+    exp-solutions: 2016_experimental_solutions.pdf
+  third:
+    th-problems: 3_etap_2016_theoretical_problems.pdf
+    th-solutions: 3_etap_2016_theoretical_solutions.pdf
+    exp-problems: 3_etap_2016_experimental_problems.pdf
+    exp-solutions: 3_etap_2016_experimental_solutions.pdf
