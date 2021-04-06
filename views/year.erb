@@ -4,9 +4,11 @@
 		<h3>
 			Республиканская олимпиада <%= year.year %> года
 		</h3>
-			<div class="col col-lg-6">
-    			<%= erb :etap, {}, { etap: year.etaps['final'], which: 'final' } %>
-  			</div>
+				<% if year.etaps['final'] %>
+					<div class="col col-lg-6">
+						<%= erb :etap, {}, { etap: year.etaps['final'], which: 'final' } %>
+					</div>
+				<% end %>
   			<% if year.etaps['third'] %>
       		<div class="col col-lg-6">
         			<%= erb :etap, {}, { etap: year.etaps['third'], which: 'third' } %>

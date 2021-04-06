@@ -1,6 +1,6 @@
 require 'yaml'
-class Year
 
+class Year
   attr_accessor :etaps, :year
 
   def initialize(year, etaps)
@@ -9,7 +9,6 @@ class Year
   end
 
   class << self
-
     def parse(file)
       @yaml = YAML.load_file("#{Dir.pwd}/#{file}")
       @years = []
@@ -25,11 +24,7 @@ class Year
     def years
       @years
     end
-
   end
-
-
-
 end
 
 Year.parse('problems.yml')
