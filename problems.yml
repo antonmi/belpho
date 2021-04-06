@@ -239,6 +239,31 @@
     exp-solutions: 3_etap_2017_experimental_solutions.pdf
 
 2018:
+  final:
+    th-problems: 2018_theoretical_problems.pdf
+    th-solutions: 2018_theoretical_solutions.pdf
+    exp-problems: 2018_experimental_problems.pdf
+    exp-solutions: 2018_experimental_solutions.pdf
   third:
-    th-problems: 3_etap_2017_theoretical_problems.pdf
-    th-solutions: 3_etap_2017_theoretical_solutions.pdf
+    th-problems: 3_etap_2018_theoretical_problems.pdf
+    th-solutions: 3_etap_2018_theoretical_solutions.pdf
+    exp-problems: 3_etap_2018_experimental_problems.pdf
+
+2019:
+  final:
+    th-problems: 2019_theoretical_problems.pdf
+    th-solutions: 2019_theoretical_solutions.pdf
+    exp-problems: 2019_experimental_problems.pdf
+    exp-solutions: 2019_experimental_solutions.pdf
+  third:
+    th-problems: 3_etap_2019_theoretical_problems.pdf
+    th-solutions: 3_etap_2019_theoretical_solutions.pdf
+    exp-problems: 3_etap_2019_experimental_problems.pdf
+    exp-solutions: 3_etap_2019_experimental_solutions.pdf
+
+2020:
+  third:
+    th-problems: 3_etap_2020_theoretical_problems.pdf
+    th-solutions: 3_etap_2020_theoretical_solutions.pdf
+    exp-problems: 3_etap_2020_experimental_problems.pdf
+    exp-solutions: 3_etap_2020_experimental_solutions.pdf
