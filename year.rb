@@ -1,6 +1,6 @@
 require 'yaml'
-class Year
 
+class Year
   attr_accessor :etaps, :year
 
   def initialize(year, etaps)
