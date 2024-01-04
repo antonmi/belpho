@@ -1,4 +1,4 @@
 BelPhO
 ======
 
-Problems and solutions of Belarus Physics Olympiads. [belpho.herokuapp.com](https://belpho.herokuapp.com/)
+Problems and solutions of Belarus Physics Olympiads. [belphol.github.io](https://belphol.github.io/)
